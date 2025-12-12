@@ -1,4 +1,4 @@
-# Software Design Architecture
+# software architecture
 
- * [High_Level_Design](./High_Level_Design)
- * [Low_Level_Design](./Low_Level_Design)
+ * [high_level_design](./high_level_design)
+ * [low_level_design](./low_level_design)
